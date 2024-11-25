@@ -1,0 +1,28 @@
+/* common shared Styles */
+body{
+  font-family: "Open Sans", sans-serif;
+}
+.text-primary{
+color:#FD6E0A;
+}
+/* Nav Related  styles */
+nav{
+    display: flex;
+}
+.nav-tittle{
+    color: #181818;
+    font-size: 45px;
+    font-weight:800;
+}
+nav > ul{
+    display:flex;
+
+}
+nav li{
+    list-style: none;
+    margin-right: 51px;
+}
+nav a{
+    text-decoration: none;
+    color: #181818;
+}
